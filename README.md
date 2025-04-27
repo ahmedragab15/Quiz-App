@@ -23,4 +23,4 @@ A dynamic and interactive **Quiz Application** built with **React**, fetching qu
 
 ## 🚀 Live Demo
 
-[🔗 View Live Demo](http://quiz-app15.netlify.app)
+[🔗 View Live Demo](https://quiz-app155.netlify.app)
